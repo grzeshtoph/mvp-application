@@ -26,6 +26,7 @@ repositories {
 }
 
 dependencies {
+    compile project(":mod-sandbox")
     compile "org.springframework.boot:spring-boot-starter-logging"
     compile "org.springframework.boot:spring-boot-autoconfigure"
     compile "org.grails:grails-core"
@@ -52,7 +53,6 @@ bootRun {
     jvmArgs('-Dspring.output.ansi.enabled=always')
     addResources = true
 }
-
 
 assets {
     minifyJs = true

@@ -2,5 +2,14 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <option name="DEFAULT_COMPILER" value="ajc" />
+    <bytecodeTargetLevel>
+      <module name="mod-sandbox_ast" target="1.8" />
+      <module name="mod-sandbox_integrationTest" target="1.8" />
+      <module name="mod-sandbox_main" target="1.8" />
+      <module name="mod-sandbox_test" target="1.8" />
+      <module name="web-sandbox_integrationTest" target="1.8" />
+      <module name="web-sandbox_main" target="1.8" />
+      <module name="web-sandbox_test" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
