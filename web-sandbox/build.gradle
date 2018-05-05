@@ -20,6 +20,19 @@ apply plugin:"org.grails.grails-web"
 apply plugin:"org.grails.grails-gsp"
 apply plugin:"asset-pipeline"
 
+//beanstalk {
+//    s3Endpoint = "eu-west-1.elasticbeanstalk.com"
+//    beanstalkEndpoint = "mvp-env.a4f73bj2ep.eu-west-1.elasticbeanstalk.com/"
+//    deployments {
+//        // Example to deploy to the same env
+//        test {
+//            war = tasks.war
+//            application = 'mvp'
+//            environment = 'Mvp-env'
+//        }
+//    }
+//}
+
 repositories {
     mavenLocal()
     maven { url "https://repo.grails.org/grails/core" }
@@ -43,10 +56,12 @@ dependencies {
     profile "org.grails.profiles:web"
     runtime "com.bertramlabs.plugins:asset-pipeline-grails:2.14.1"
     runtime "com.h2database:h2"
+    runtime "org.grails.plugins:grails-console:2.0.8"
     testCompile "org.grails:grails-plugin-testing"
     testCompile "org.grails.plugins:geb"
     testRuntime "org.seleniumhq.selenium:selenium-htmlunit-driver:2.47.1"
     testRuntime "net.sourceforge.htmlunit:htmlunit:2.18"
+//    classpath "gradle.plugin.fi.evident.gradle.beanstalk:gradle-beanstalk-plugin:0.0.7"
 }
 
 bootRun {
