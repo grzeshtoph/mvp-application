@@ -1,1 +1,1 @@
-include "web-sandbox", "mod-sandbox"
+include "mod-sandbox", "web-sandbox", "app-admin", "app-web", "mod-domain", "mod-mobile", "app-microservice", "specification"

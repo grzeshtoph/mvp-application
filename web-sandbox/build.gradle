@@ -38,8 +38,13 @@ repositories {
     maven { url "https://repo.grails.org/grails/core" }
 }
 
+grails {
+    plugins {
+        compile project(":mod-sandbox")
+    }
+}
+
 dependencies {
-    compile project(":mod-sandbox")
     compile "org.springframework.boot:spring-boot-starter-logging"
     compile "org.springframework.boot:spring-boot-autoconfigure"
     compile "org.grails:grails-core"

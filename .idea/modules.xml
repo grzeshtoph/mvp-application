@@ -2,12 +2,35 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-admin/app-admin.iml" filepath="$PROJECT_DIR$/.idea/modules/app-admin/app-admin.iml" group="app-admin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-admin/app-admin_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app-admin/app-admin_integrationTest.iml" group="app-admin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-admin/app-admin_main.iml" filepath="$PROJECT_DIR$/.idea/modules/app-admin/app-admin_main.iml" group="app-admin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-admin/app-admin_test.iml" filepath="$PROJECT_DIR$/.idea/modules/app-admin/app-admin_test.iml" group="app-admin" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-microservice/app-microservice.iml" filepath="$PROJECT_DIR$/.idea/modules/app-microservice/app-microservice.iml" group="app-microservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-microservice/app-microservice_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app-microservice/app-microservice_integrationTest.iml" group="app-microservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-microservice/app-microservice_main.iml" filepath="$PROJECT_DIR$/.idea/modules/app-microservice/app-microservice_main.iml" group="app-microservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-microservice/app-microservice_test.iml" filepath="$PROJECT_DIR$/.idea/modules/app-microservice/app-microservice_test.iml" group="app-microservice" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app-web/app-web.iml" filepath="$PROJECT_DIR$/.idea/modules/app-web/app-web.iml" group="app-web" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-domain/mod-domain.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-domain/mod-domain.iml" group="mod-domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-domain/mod-domain_ast.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-domain/mod-domain_ast.iml" group="mod-domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-domain/mod-domain_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-domain/mod-domain_integrationTest.iml" group="mod-domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-domain/mod-domain_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-domain/mod-domain_main.iml" group="mod-domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-domain/mod-domain_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-domain/mod-domain_test.iml" group="mod-domain" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-mobile/mod-mobile.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-mobile/mod-mobile.iml" group="mod-mobile" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-mobile/mod-mobile_ast.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-mobile/mod-mobile_ast.iml" group="mod-mobile" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-mobile/mod-mobile_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-mobile/mod-mobile_integrationTest.iml" group="mod-mobile" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-mobile/mod-mobile_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-mobile/mod-mobile_main.iml" group="mod-mobile" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-mobile/mod-mobile_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-mobile/mod-mobile_test.iml" group="mod-mobile" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-sandbox/mod-sandbox.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-sandbox/mod-sandbox.iml" group="mod-sandbox" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-sandbox/mod-sandbox_ast.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-sandbox/mod-sandbox_ast.iml" group="mod-sandbox" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-sandbox/mod-sandbox_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-sandbox/mod-sandbox_integrationTest.iml" group="mod-sandbox" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-sandbox/mod-sandbox_main.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-sandbox/mod-sandbox_main.iml" group="mod-sandbox" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/mod-sandbox/mod-sandbox_test.iml" filepath="$PROJECT_DIR$/.idea/modules/mod-sandbox/mod-sandbox_test.iml" group="mod-sandbox" />
       <module fileurl="file://$PROJECT_DIR$/mvp-application.iml" filepath="$PROJECT_DIR$/mvp-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specification/specification.iml" filepath="$PROJECT_DIR$/.idea/modules/specification/specification.iml" group="specification" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specification/specification_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/specification/specification_integrationTest.iml" group="specification" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specification/specification_main.iml" filepath="$PROJECT_DIR$/.idea/modules/specification/specification_main.iml" group="specification" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/specification/specification_test.iml" filepath="$PROJECT_DIR$/.idea/modules/specification/specification_test.iml" group="specification" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-sandbox/web-sandbox.iml" filepath="$PROJECT_DIR$/.idea/modules/web-sandbox/web-sandbox.iml" group="web-sandbox" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-sandbox/web-sandbox_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/web-sandbox/web-sandbox_integrationTest.iml" group="web-sandbox" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/web-sandbox/web-sandbox_main.iml" filepath="$PROJECT_DIR$/.idea/modules/web-sandbox/web-sandbox_main.iml" group="web-sandbox" />

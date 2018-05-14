@@ -2,10 +2,27 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="app-admin_integrationTest" target="1.8" />
+      <module name="app-admin_main" target="1.8" />
+      <module name="app-admin_test" target="1.8" />
+      <module name="app-microservice_integrationTest" target="1.8" />
+      <module name="app-microservice_main" target="1.8" />
+      <module name="app-microservice_test" target="1.8" />
+      <module name="mod-domain_ast" target="1.8" />
+      <module name="mod-domain_integrationTest" target="1.8" />
+      <module name="mod-domain_main" target="1.8" />
+      <module name="mod-domain_test" target="1.8" />
+      <module name="mod-mobile_ast" target="1.8" />
+      <module name="mod-mobile_integrationTest" target="1.8" />
+      <module name="mod-mobile_main" target="1.8" />
+      <module name="mod-mobile_test" target="1.8" />
       <module name="mod-sandbox_ast" target="1.8" />
       <module name="mod-sandbox_integrationTest" target="1.8" />
       <module name="mod-sandbox_main" target="1.8" />
       <module name="mod-sandbox_test" target="1.8" />
+      <module name="specification_integrationTest" target="1.8" />
+      <module name="specification_main" target="1.8" />
+      <module name="specification_test" target="1.8" />
       <module name="web-sandbox_integrationTest" target="1.8" />
       <module name="web-sandbox_main" target="1.8" />
       <module name="web-sandbox_test" target="1.8" />
